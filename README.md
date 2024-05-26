@@ -17,7 +17,7 @@
 
 <h1>My skills/h1>
 
-- 💻 &nbsp;  `.cs` | `.c` | `.cpp` | `.js` 
+- 💻 &nbsp;  `.cs` | `.c` | `.cpp` | `.js
 `
 - 🌐 &nbsp; .NET 8.0 | 
 - 🕸 &nbsp; Bootstrap | HTML5 | CSS | Markdown
