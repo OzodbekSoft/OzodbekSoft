@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/profile.php?id=100089646802984"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 
-<h1>My skills/h1>
+<h1>My skills</h1>
 
 - 💻 &nbsp;  `.cs` | `.c` | `.cpp` | `.js
 `
