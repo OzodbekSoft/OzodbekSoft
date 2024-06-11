@@ -10,7 +10,7 @@
 <br/>
 <p align="end">
 <a href="https://dev.to/ozodbek_soft"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/ozodbek-ergashboyev-9655a1282/?trk=opento_nprofile_pfbanner)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ozodbek-ergashboyev-9655a1282/?trk=opento_nprofile_pfbanner"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/dotnetgo2"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.facebook.com/profile.php?id=100089646802984"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
